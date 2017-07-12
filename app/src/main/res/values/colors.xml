@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary color of the app (shown in the app bar) -->
+    <color name="colorPrimary">#a4a8a4</color>
+    <!-- Primary dark color of the app (shown in the status bar) -->
+    <color name="colorPrimaryDark">#747574</color>
+    <!-- Background color for app -->
+    <color name="colorAccent">#999b99</color>
+
+    <!-- Background color for the Sights category -->
+    <color name="category_sights">#a8a8a8</color>
+
+    <!-- Background color for the Museums category -->
+    <color name="category_museums">#a8a8a8</color>
+
+    <!-- Background color for the Churches category -->
+    <color name="category_churches">#a8a8a8</color>
+
+    <!-- Background color for the Building category -->
+    <color name="category_buildings">#a8a8a8</color>
+
+    <color name="background_color_tablayout">#24283a</color>
+
+    <color name="textColor_list_item">#018401</color>
+
+    <color name="colorPrimaryDark_MyTheme">#a8a8a8</color>
+
+    <color name="tabIndicatorColor">#018401</color>
+
+    <color name="tabSelectedTextColor">#018401</color>
+
+    <color name="tabLayoutTextStyle_Color">#A8A19E</color>
+
+</resources>

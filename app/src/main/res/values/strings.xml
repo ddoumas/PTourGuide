@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Piraeus Guide</string>
+    <string name="category_sights">Sights</string>
+    <string name="category_museums">Museums</string>
+    <string name="category_churches">Churches</string>
+    <string name="category_buildings">Buildings</string>
+    <string name="amof">Archeological Museum of Piraeus</string>
+    <string name="amof_description">The Piraeus Archaeological Museum operates in a modern building in Xarilaou Trikoupi Street 31, founded in 1966 and inaugurated in 1981. It consists of a two-store showroom with warehouse and laboratories located in the basement. There is a building connection to the oldest museum (built in 1935 and declared as under preservation) </string>
+    <string name="hmmp">Hellenic Maritime Museum</string>
+    <string name="hmmp_decription">The museum exhibits approximately 2500 items related to the maritime history of Greece from prehistoric times to the present day and include many ship models and a number of paintings from the late 19th and early 20th centuries.</string>
+    <string name="kastella">Kastella Hill</string>
+    <string name="kastella_description">A very nice place to visit and get a taste of Greek cuisine</string>
+    <string name="mikro">Mikrolimano Marina</string>
+    <string name="mikro_description">Mikrolimano is the second largest Yacht marina of the big port with lots of fish restaurants and only 15 minutes walk to the Stadium of Peace and Friendship in Faliro.The port was protected by the goddess Mounihia Artemis that s why sometimes it is referred as port of Munihia. Its old name from the times of the Ottoman occupation was Tourkolimano.Today Mikrolimano it is a popular location, attracting people from all over Attica. It is a beautiful little harbour with fishing boats, small boats and luxury yachts. If you like fish and seafood have lunch or dinner at one of its famous taverns. many Greek films have used this location because of its idyllic atmosphere. Mikrolimano is a few minutes walk from Kastella, alternatively you can take the trolley from Pasalimani to get there. The trolley does not go down to the marina so you have to get off at Cavo Doro stop and go down by foot. On the same area located the Nautical Athletic Association. If you walk toward Faliro you will find numerous of bars and cafeterias under the hill of Kastella with amazing view to Faliro gulf and the Athletics Stadium.</string>
+    <string name="zea">Marina Zeas</string>
+    <string name="zea_description">The Bay of Zea, since Ottoman times and until recently known as Paşalimanı (Πασαλιμάνι), is a broad bay located at the eastern coast of the Piraeus peninsula in Greece. It hosted the swimming events at the 1896 Summer Olympics held in Athens. A seaport and marina are located in the bay.</string>
+    <string name="dimotiko">Piraeus Municipal Theatre</string>
+    <string name="dimotiko_description">The Piraeus Municipal Theatre is a neoclassical building built on plans by architect Ioannis Lazarimos and was opened on 9 April 1895.The theatre has a 600-seat capacity and is located in the centremost place of the city of Piraeus.</string>
+    <string name="sef">Peace and Friendship Stadium</string>
+    <string name="sef_description">The Peace and Friendship Stadium, commonly known by its acronym SEF (Greek: Στάδιο Ειρήνης και Φιλίας, transliterated as Stadio Eirinis kai Filias) is a multi-purpose indoor arena that is located in Piraeus, on the coastal zone of Attica, Greece. The arena is mostly known for being the home to EuroLeague team Olympiacos, and is the central venue of the Faliro Coastal Zone Olympic Complex. It opened in 1985.The arena complex also contains a 942 seat amphitheater, a weight training room, a full practice facility, three auxiliary courts that house the Olympiacos youth clubs, and the Olympiacos team office.</string>
+    <string name="pyrgos">Tower of Piraeus</string>
+    <string name="pyrgos_description">An almost abandonded building in piraeus which used to host a lot of companies.Near you can find Piraeu s Cenntral Market.</string>
+    <string name="nik">Saint Nicholas</string>
+    <string name="nik_description">he historical Saint Nicholas, as known from strict history: He was born at Patara, Lycia in Asia Minor (now Turkey). In his youth he made a pilgrimage to Egypt and the Palestine area. Shortly after his return he became Bishop of Myra and was later cast into prison during the persecution of Diocletian. He was released after the accession of Constantine and was present at the Council of Nicaea. In 1087, Italian merchants took his body from Myra, bringing it to Bari in Italy.</string>
+    <string name="trinity">Holy Trinity</string>
+    <string name="trinity_description">The biggest church in Piraeus devoted to Holy Trinity</string>
+    <string name="dion">Saint Dennis</string>
+    <string name="dion_description">Saint Dionysios of Zakynthos was a 16th-century Orthodox Christian Archbishop of Aegina. He was born on the Greek island of Zakynthos in 1546. He is the patron saint of Zakynthos (sometimes called Zante in English) and is celebrated on August 24 and December 17</string>
+</resources>
